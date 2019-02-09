@@ -43,6 +43,7 @@ def adding
   return shipping_manifest
 end
 
-def retrieval()
+def retrieval
+  adding[oil paintings]
   
 end
