@@ -44,6 +44,6 @@ def adding
 end
 
 def retrieval
-  adding[oil paintings]
+  
   
 end
